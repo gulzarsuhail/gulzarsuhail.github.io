@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.0ffc09ba.chunk.css",
-    "main.js": "/static/js/main.9e29baf1.chunk.js",
-    "main.js.map": "/static/js/main.9e29baf1.chunk.js.map",
+    "main.css": "/static/css/main.fb80b666.chunk.css",
+    "main.js": "/static/js/main.ff4aa7a6.chunk.js",
+    "main.js.map": "/static/js/main.ff4aa7a6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.92d7961b.js",
     "runtime-main.js.map": "/static/js/runtime-main.92d7961b.js.map",
     "static/js/2.6cbb5de6.chunk.js": "/static/js/2.6cbb5de6.chunk.js",
     "static/js/2.6cbb5de6.chunk.js.map": "/static/js/2.6cbb5de6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3546f32453318a1c9fe347b2dd9d40fb.js": "/precache-manifest.3546f32453318a1c9fe347b2dd9d40fb.js",
+    "precache-manifest.3b7df4126970313e8c658d1bd7e76bf3.js": "/precache-manifest.3b7df4126970313e8c658d1bd7e76bf3.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0ffc09ba.chunk.css.map": "/static/css/main.0ffc09ba.chunk.css.map",
+    "static/css/main.fb80b666.chunk.css.map": "/static/css/main.fb80b666.chunk.css.map",
     "static/js/2.6cbb5de6.chunk.js.LICENSE.txt": "/static/js/2.6cbb5de6.chunk.js.LICENSE.txt",
-    "static/media/flipflop.svg": "/static/media/flipflop.7607e2d1.svg",
-    "static/media/icecream.svg": "/static/media/icecream.37c75fdf.svg",
-    "static/media/snowflake.svg": "/static/media/snowflake.bbcdba82.svg",
-    "static/media/soccerball.svg": "/static/media/soccerball.d10336c1.svg",
-    "static/media/sodacan.svg": "/static/media/sodacan.f9b854c5.svg",
-    "static/media/sunglasses.svg": "/static/media/sunglasses.87b3f71f.svg"
+    "static/media/flipflop.svg": "/static/media/flipflop.40cf9abf.svg",
+    "static/media/icecream.svg": "/static/media/icecream.8330ecc2.svg",
+    "static/media/snowflake.svg": "/static/media/snowflake.6403abc0.svg",
+    "static/media/soccerball.svg": "/static/media/soccerball.a6423124.svg",
+    "static/media/sodacan.svg": "/static/media/sodacan.d59694c7.svg",
+    "static/media/sunglasses.svg": "/static/media/sunglasses.9eb83d97.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.92d7961b.js",
     "static/js/2.6cbb5de6.chunk.js",
-    "static/css/main.0ffc09ba.chunk.css",
-    "static/js/main.9e29baf1.chunk.js"
+    "static/css/main.fb80b666.chunk.css",
+    "static/js/main.ff4aa7a6.chunk.js"
   ]
 }
